@@ -1,0 +1,3 @@
+flyway.user=forge
+flyway.password=secret
+flyway.schemas=public
